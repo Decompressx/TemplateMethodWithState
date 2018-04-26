@@ -1,0 +1,13 @@
+C:\Users\Tkachenkovv\Desktop\SortTemplate\SortTemplate\bin\Debug\SortTemplate.exe.config
+C:\Users\Tkachenkovv\Desktop\SortTemplate\SortTemplate\obj\Debug\SortTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Tkachenkovv\Desktop\SortTemplate\SortTemplate\bin\Debug\SortTemplate.exe
+C:\Users\Tkachenkovv\Desktop\SortTemplate\SortTemplate\bin\Debug\SortTemplate.pdb
+C:\Users\Tkachenkovv\Desktop\SortTemplate\SortTemplate\obj\Debug\SortTemplate.exe
+C:\Users\Tkachenkovv\Desktop\SortTemplate\SortTemplate\obj\Debug\SortTemplate.pdb
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\SortTemplate\SortTemplate\bin\Debug\SortTemplate.exe.config
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\SortTemplate\SortTemplate\bin\Debug\SortTemplate.exe
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\SortTemplate\SortTemplate\bin\Debug\SortTemplate.pdb
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\SortTemplate\SortTemplate\obj\Debug\SortTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\SortTemplate\SortTemplate\obj\Debug\SortTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\SortTemplate\SortTemplate\obj\Debug\SortTemplate.exe
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\SortTemplate\SortTemplate\obj\Debug\SortTemplate.pdb
